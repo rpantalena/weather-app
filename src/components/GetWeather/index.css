@@ -1,0 +1,38 @@
+.app-container {
+  padding: 12px;
+}
+
+
+.form-group{
+  padding:1rem;
+  width:auto;
+}
+.form-control{
+  width:auto;
+}
+.form-card{
+  margin:12px;
+}
+
+.weather-data{
+  margin:12px;
+  font-size: 20px;
+}
+
+label{
+  padding-left:0.5rem;
+}
+
+.weather-data-card{
+  margin:12px;
+}
+.weather-data-card div{
+  width:fit-content;
+}
+
+.error-message{
+  margin:12px;
+  font-size: 18px;
+  color:rgb(231, 47, 47);
+}
+
